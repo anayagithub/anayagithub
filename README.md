@@ -1,16 +1,15 @@
 # 👋 Hi, I'm Anaya!
 
 🎓 Currently pursuing **B.Tech (IT)** at **IGDTUW, Delhi**.  
-
 💡 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**, with a strong focus on solving real-world problems using data.  
-
 🚀 Exploring the world of **neural networks, predictive analytics, and scalable ML systems**.  
-
 🤝 Open to collaborating on **cutting-edge research and applied AI projects** that create real-world impact.  
 
 
 ---
+
   <img src="https://cdn.dribbble.com/userupload/29175329/file/original-be9706d865fa566200db0c5152a49f0b.gif" width="400"/>
+  
 ---
 
 ### 🌐 Socials:
