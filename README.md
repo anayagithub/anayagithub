@@ -13,8 +13,9 @@
 ---
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/anaya-jain-4a5715288/))
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](2004anaya10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaya-jain-4a5715288/)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:2004anaya10@gmail.com)
+
 
 ---
 
