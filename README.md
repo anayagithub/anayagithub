@@ -1,15 +1,16 @@
 # 👋 Hi, I'm Anaya!
 
-🎓 Currently pursuing B.Tech (IT) at IGDTUW, Delhi.
-💡 Passionate about AI, Machine Learning, and Data Science, with a strong focus on solving real-world problems using data.
-🚀 Exploring the world of neural networks, predictive analytics, and scalable ML systems.
-🤝 Open to collaborating on cutting-edge research and applied AI projects that create impact.
+-🎓 Currently pursuing B.Tech (IT) at IGDTUW, Delhi.
+-💡 Passionate about AI, Machine Learning, and Data Science, with a strong focus on solving real-world problems using data.
+-🚀 Exploring the world of neural networks, predictive analytics, and scalable ML systems.
+-🤝 Open to collaborating on cutting-edge research and applied AI projects that create impact.
 
 ---
 
 <p align="center">
-  <img src="[[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://dribbble.com/shots/14393709-Girl-with-laptop)](https://cdn.dribbble.com/userupload/29175329/file/original-be9706d865fa566200db0c5152a49f0b.gif)" width="400"/>
+  <img src="https://cdn.dribbble.com/userupload/29175329/file/original-be9706d865fa566200db0c5152a49f0b.gif" width="400"/>
 </p>
+
 
 
 ---
