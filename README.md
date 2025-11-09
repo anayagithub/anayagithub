@@ -7,7 +7,10 @@
 
 ---
 
-<img src="[https://dribbble.com/shots/11113787-Woman-chatting-online-Girl-with-laptop-sitting-at-table](https://dribbble.com/shots/11113787-Woman-chatting-online-Girl-with-laptop-sitting-at-table)" width="400"/>
+<p align="center">
+  <img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://dribbble.com/shots/14393709-Girl-with-laptop)" width="400"/>
+</p>
+
 
 ---
 
